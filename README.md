@@ -42,6 +42,7 @@ class AboutMe {
 
          I am passionate about building high quality, intuitive, and accessible user experiences';
    }
+}
 ```
 <div align='center'>
     <h2>
