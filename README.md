@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif" width="300"/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/christian-espinosa-bb0b47187/">
+  <a href="https://www.linkedin.com/in/christian-espinosa-bb0b47187/" target='_blank'>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://christianrayespinosa.com/">
+  <a href="https://christianrayespinosa.com/" target='_blank'>
     <img src="https://img.shields.io/badge/-WEBSITE-orange?style=for-the-badge" />
   </a>
 </div>
